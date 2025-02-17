@@ -1,2 +1,2 @@
 # coursework
-Here are the microproject assignments I completed from UIUC STAT107 Data Science Discovery
+Here are the **Microproject** assignments, and **Projects** I completed from UIUC STAT107 Data Science Discovery
